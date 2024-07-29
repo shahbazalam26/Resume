@@ -1,2 +1,2 @@
-# Resume
-My first html project
+# https://shahbazalam26.github.io/Resume/
+First mini project using HTML
